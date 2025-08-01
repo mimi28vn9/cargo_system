@@ -18,9 +18,7 @@ The **Cargo Management System** is a digital solution designed to manage the shi
 ## 🛠️ Technologies Used
 
 - **Frontend:** Flutter / React / HTML+CSS+JS (based on your implementation)
-- **Backend:** Laravel / Node.js / Django
 - **Database:** MySQL / PostgreSQL / Firebase
-- **APIs:** Google Maps API (for route tracking), Payment Gateway API (e.g., Stripe, M-Pesa)
 
 ---
 
